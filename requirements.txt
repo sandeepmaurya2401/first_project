@@ -5,3 +5,4 @@ pydantic
 pymongo
 python-jose
 passlib[bcrypt]
+email-validator
